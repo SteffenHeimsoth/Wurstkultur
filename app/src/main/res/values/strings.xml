@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WurstKultur</string>
+    <string name="title_activity_kasse">Kasse</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>
